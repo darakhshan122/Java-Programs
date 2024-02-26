@@ -1,5 +1,5 @@
 import javax.sound.sampled.SourceDataLine;
-
+// demo
 class stack{
     private node top;
     private int size;
