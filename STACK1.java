@@ -11,6 +11,8 @@ public class STACK1 {
         public STACK1(){
             top= null;
         }
+
+        // PUSH FUNCTIONmmmmmmmlj
         public void push(int data){
             node tempnode= new node(data);
             tempnode.next=top;
