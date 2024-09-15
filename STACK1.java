@@ -45,6 +45,7 @@ public class STACK1 {
             STACK1 Stack= new STACK1();
              Stack.push(18);
              Stack.push(1);
+            Stack.push(89);
      Stack.push(19);
      Stack.push(11);
      Stack.push(14);
